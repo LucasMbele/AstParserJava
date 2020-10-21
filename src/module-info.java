@@ -1,0 +1,2 @@
+module spbu.lucas.mbele {
+}
